@@ -140,7 +140,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "📌 *Example:* `/like IND 14160011100`\n"
         f"🔥 Your daily limit: `{daily_limit}` likes\n"
         "🌍 *Any region code works* (e.g., IND, USA, GER, etc.)\n"
-        " Powered by Pro tyson(Himanshu)
+        " Powered by Pro tyson(Himanshu)\n"
         "⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯"
     )
     await reply(update, msg)
